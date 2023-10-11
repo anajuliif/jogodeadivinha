@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgba(2, 2, 255, 0.678);
+}
+
+h1 {
+    color: #007bff;
+}
+
+input[type="number"] {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#guessSubmit {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.container{
+    height: 425px;
+    width: 360px;
+    margin: 100px auto;
+    background-color: #f7f7f7f7;
+    border-radius: 20px;
+}
